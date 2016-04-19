@@ -1,0 +1,17 @@
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\dasfabsync.exe.config
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\dasfabsync.exe
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\dasfabsync.pdb
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\obj\Debug\dasfabsync.csprojResolveAssemblyReference.cache
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\obj\Debug\dasfabsync.exe
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\obj\Debug\dasfabsync.pdb
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\MongoDB.Bson.dll
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\MongoDB.Driver.dll
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\MongoDB.Bson.xml
+c:\users\avolos\documents\visual studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\MongoDB.Driver.xml
+C:\Users\avolos\Documents\Visual Studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\MongoDB.Driver.GridFS.dll
+C:\Users\avolos\Documents\Visual Studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\MongoDB.Driver.GridFS.xml
+C:\Users\avolos\Documents\Visual Studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\dasfabsync.exe.manifest
+C:\Users\avolos\Documents\Visual Studio 2015\Projects\apple\dasfabsync\dasfabsync\bin\Debug\dasfabsync.application
+C:\Users\avolos\Documents\Visual Studio 2015\Projects\apple\dasfabsync\dasfabsync\obj\Debug\dasfabsync.exe.manifest
+C:\Users\avolos\Documents\Visual Studio 2015\Projects\apple\dasfabsync\dasfabsync\obj\Debug\dasfabsync.application
