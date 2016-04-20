@@ -195,7 +195,7 @@ namespace dasfabsync
                      { "content", content},
                      { "length", content.Length},
                      { "processed", false},
-                     { "dateCreated", DateTime.UtcNow },
+                     { "dateCreated",  file.LastWriteTime },
                      { "dateProcessed", "" }
                 };
                 if (_syncFiles.Count(query) == 0) {
