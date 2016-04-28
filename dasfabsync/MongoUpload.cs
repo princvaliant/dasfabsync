@@ -117,7 +117,7 @@ namespace dasfabsync
             DateTime lastRun = getLastRun(dirDoc);
             // Upload first files in root of the directory
             uploadFileData(dirDoc, "", directory.GetFiles()
-                .Where(file => file.LastWriteTime >= lastRun)
+                .Where(file => file.CreationTime >= lastRun)
                 .Where(file => Regex.Match(file.Name, fileFilter).Success));
             // Start recursing through subdirectories
             recurseDir(dirDoc, dirPath, fileFilter, lastRun);
